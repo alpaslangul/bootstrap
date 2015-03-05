@@ -231,3 +231,10 @@ body {
 .mailEkle { background-color: #343434; color: #ffffff; border: 2px #000000 solid; height: 40px;}
 .mailInput { border: 0 none; width: 190px; height: 40px; font-size: 15px; position:relative; padding: 0px 10px;}
 
+@media (min-width: 290px) and (max-width: 502px) {
+    .headBox {
+        width: 233px !important;
+        height: 233px !important;
+    }
+}
+
